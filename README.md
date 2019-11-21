@@ -1,11 +1,7 @@
 # EJ2-Angular-using-systemjs
 This sample describes about how to create an angular application with SystemJS.
 
-# Getting Started with Syncfusion Angular and SystemJS
-
 Refer to the following steps to create an angular application with `SystemJS` using Syncfusion Angular UI Components (Essential JS 2).
-
-This section describes about how to create an angular application with SystemJS.
 
 ## Cloning Angular QuickStart 
 
